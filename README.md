@@ -1,4 +1,12 @@
 # Startup - Free Next.js Startup Website Template
+![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/github/license/mscbuild/site-nextjs) 
+ ![](https://img.shields.io/github/repo-size/mscbuild/site-nextjs)
+![](https://img.shields.io/badge/PRs-Welcome-green)
+![](https://img.shields.io/badge/code%20style-nextjs-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
+![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
 
 Startup free, open-source, and premium-quality startup website template for Next.js comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
 
@@ -72,3 +80,5 @@ If you like the template, please star this repository to inspire the team to cre
 
 **29 Jan 2025**
 - Upgraded to Next.js 15
+
+ 
