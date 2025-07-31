@@ -78,7 +78,7 @@ If you like the template, please star this repository to inspire the team to cre
 - Fixed duplicate key errors on homepage.
 - Separated icons on theme-switcher button, and refactored scroll-to-top button.
 
-**29 Jan 2025**
-- Upgraded to Next.js 15
+**31 Jul 2025**
+- Upgraded to Next.js 15.4.5
 
  
