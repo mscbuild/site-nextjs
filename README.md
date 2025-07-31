@@ -1,7 +1,7 @@
 # Startup - Free Next.js Startup Website Template
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/site-nextjs) 
- ![](https://img.shields.io/github/repo-size/mscbuild/site-nextjs)
+ ![]((https://img.shields.io/github/languages/code-size/mscbuild/site-nextjs)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 ![](https://img.shields.io/badge/code%20style-nextjs-green)
 ![](https://img.shields.io/github/stars/mscbuild)
